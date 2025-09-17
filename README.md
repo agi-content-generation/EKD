@@ -1,4 +1,4 @@
 # EKD
 
 
-- Evolving    Knowledge Distillation for Lightweight Neural Machine Translation
+Evolving    Knowledge Distillation for Lightweight Neural Machine Translation
