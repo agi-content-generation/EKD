@@ -38,7 +38,7 @@ fairseq-preprocess --source-lang de --target-lang en \
 
 
 ## Evolving Knowledge Distillation
-We provide example commands for transformer_iwslt_de_en model. 
+We provide example commands for transformer_iwslt_de_en model.
 
 
 ### Train base model on iwslt14-de-en dataset
